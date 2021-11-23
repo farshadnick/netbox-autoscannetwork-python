@@ -1,1 +1,2 @@
-python-netbox
+networkscan
+pynetbox
